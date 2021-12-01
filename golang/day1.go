@@ -37,7 +37,7 @@ func threeSum(lines []int64) int {
 }
 
 func day1() {
-	f, err := os.Open("day1.txt")
+	f, err := os.Open("../data/day1.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
