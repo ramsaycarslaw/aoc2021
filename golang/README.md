@@ -1,4 +1,5 @@
-% Golang
+Golang
+========
 
 To run the go code use
 
