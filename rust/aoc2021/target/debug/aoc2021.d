@@ -1,0 +1,1 @@
+/Users/ramsaycarslaw/dev/adventOfCode/2021/rust/aoc2021/target/debug/aoc2021: /Users/ramsaycarslaw/dev/adventOfCode/2021/rust/aoc2021/src/day1.rs /Users/ramsaycarslaw/dev/adventOfCode/2021/rust/aoc2021/src/main.rs /Users/ramsaycarslaw/dev/adventOfCode/2021/rust/aoc2021/src/read.rs
